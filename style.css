@@ -1,0 +1,27 @@
+h1 {
+    background-color: aquamarine;
+    font-size: 40px;
+    text-align: center;
+}
+
+html{
+    background-color: black;
+}
+
+p {
+    color:  white;
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+.one {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+    border: solid white 5px;
+}
+
+
